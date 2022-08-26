@@ -1,0 +1,6 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-STREAM-INF:BANDWIDTH=902184,CODECS="avc1.64001e,mp4a.40.2",RESOLUTION=640x360,FRAME-RATE=30.000
+https://qvc-amd-live.akamaized.net/hls/live/2034113/lsqvc1us/medlow.m3u8
+#EXT-X-I-FRAME-STREAM-INF:BANDWIDTH=600000,CODECS="avc1.64001e",RESOLUTION=640x360,URI="https://qvc-amd-live.akamaized.net/hls/live/2034113/lsqvc1us/iframe_medlow.m3u8"
+
