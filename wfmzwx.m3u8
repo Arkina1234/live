@@ -1,0 +1,8 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-STREAM-INF:BANDWIDTH=3659760,RESOLUTION=1280x872,CODECS="avc1.42c028,mp4a.40.2"
+https://dai2-playlistserver.aws.syncbak.com/media.m3u8?bitrate=3659760&session=527d79b1934041d4996d5fff64927382
+#EXT-X-STREAM-INF:BANDWIDTH=1787760,RESOLUTION=640x436,CODECS="avc1.42c028,mp4a.40.2"
+https://dai2-playlistserver.aws.syncbak.com/media.m3u8?bitrate=1787760&session=527d79b1934041d4996d5fff64927382
+#EXT-X-STREAM-INF:BANDWIDTH=500722,RESOLUTION=416x282,CODECS="avc1.42c028,mp4a.40.2"
+https://dai2-playlistserver.aws.syncbak.com/media.m3u8?bitrate=500722&session=527d79b1934041d4996d5fff64927382
