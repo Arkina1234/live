@@ -1,0 +1,15 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-STREAM-INF:BANDWIDTH=4689104,CODECS="avc1.640028,mp4a.40.2",RESOLUTION=1920x1080,FRAME-RATE=30.000
+https://qvc-amd-live.akamaized.net/hls/live/2034113/lshsn1us/high.m3u8
+#EXT-X-STREAM-INF:BANDWIDTH=3018592,CODECS="avc1.64001f,mp4a.40.2",RESOLUTION=1280x720,FRAME-RATE=30.000
+https://qvc-amd-live.akamaized.net/hls/live/2034113/lshsn1us/medhigh.m3u8
+#EXT-X-STREAM-INF:BANDWIDTH=1348088,CODECS="avc1.64001f,mp4a.40.2",RESOLUTION=960x540,FRAME-RATE=30.000
+https://qvc-amd-live.akamaized.net/hls/live/2034113/lshsn1us/med.m3u8
+#EXT-X-STREAM-INF:BANDWIDTH=902184,CODECS="avc1.64001e,mp4a.40.2",RESOLUTION=640x360,FRAME-RATE=30.000
+https://qvc-amd-live.akamaized.net/hls/live/2034113/lshsn1us/medlow.m3u8
+
+#EXT-X-I-FRAME-STREAM-INF:BANDWIDTH=4000000,CODECS="avc1.640028",RESOLUTION=1920x1080,URI="https://qvc-amd-live.akamaized.net/hls/live/2034113/lshsn1us/iframe_high.m3u8"
+#EXT-X-I-FRAME-STREAM-INF:BANDWIDTH=2500000,CODECS="avc1.64001f",RESOLUTION=1280x720,URI="https://qvc-amd-live.akamaized.net/hls/live/2034113/lshsn1us/iframe_medhigh.m3u8"
+#EXT-X-I-FRAME-STREAM-INF:BANDWIDTH=1000000,CODECS="avc1.64001f",RESOLUTION=960x540,URI="https://qvc-amd-live.akamaized.net/hls/live/2034113/lshsn1us/iframe_med.m3u8"
+#EXT-X-I-FRAME-STREAM-INF:BANDWIDTH=600000,CODECS="avc1.64001e",RESOLUTION=640x360,URI="https://qvc-amd-live.akamaized.net/hls/live/2034113/lshsn1us/iframe_medlow.m3u8"
