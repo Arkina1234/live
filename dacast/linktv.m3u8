@@ -1,0 +1,5 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-MEDIA:TYPE=SUBTITLES,GROUP-ID="subs",NAME="English",FORCED=NO,AUTOSELECT=YES,URI="https://dacastmmd.mmdlive.lldns.net/dacastmmd/26bfeb9c290a4673aeae54c7d4fb9f35/subtitlelist_leng_b4628000.m3u8?p=79&s=1667438754&e=1667438874&h=de2364772e02bf93e88b2b20c68e91eb",LANGUAGE="eng"
+#EXT-X-STREAM-INF:BANDWIDTH=4628000,SUBTITLES="subs"
+https://dacastmmd.mmdlive.lldns.net/dacastmmd/26bfeb9c290a4673aeae54c7d4fb9f35/chunklist_b000000.m3u8
