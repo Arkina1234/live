@@ -1,0 +1,9 @@
+cfntv https://uni8rtmp.tulix.tv/cfntv/cfntv/playlist.m3u8
+cathtv https://catholictvhd-lh.akamaized.net/hls/live/2043390/CTVLiveHD/master.m3u8
+mlc https://d2jalth387y2js.cloudfront.net/test.m3u8
+aib https://stream2.earthchannel.com/AibcstLIVE/_definst_/AibcstLIVE.stream/playlist.m3u8
+Flachan https://cdnapisec.kaltura.com/p/2593311/sp/259331100/playManifest/entryId/1_ta2cmesd/format/applehttp/protocol/https/a.m3u8
+cas https://classicarts.akamaized.net/hls/live/1024257/CAS/master.m3u8
+newtang https://ntd02.akamaized.net/NTDA/index.m3u8
+yta https://thegateway.app/YouToo/YTamerica/playlist.m3u8
+jltv https://jlt2104.cdn.nextologies.com/ebaed9568f2b8e61/ffaaf4b7e1d0e7a8/playlist.m3u8
