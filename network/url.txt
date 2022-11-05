@@ -1,0 +1,10 @@
+scntv https://stream6.scientology.org/master.m3u8
+nhkwrld https://nhkworld.webcdn.stream.ne.jp/www11/nhkworld-tv/global/2003458/live.m3u8
+jltv https://jlt2104.cdn.nextologies.com/ebaed9568f2b8e61/ffaaf4b7e1d0e7a8/playlist.m3u8
+fstv https://edge.fstv-live-linear-channel.top.comcast.net/Content/HLS_HLSv3/Live/channel(b168a609-19c1-2203-ae1d-6b9726f05e67)/index.m3u8
+newsmx https://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8
+nasa https://ntv2.akamaized.net/hls/live/2013923/NASA-NTV2-HLS/master.m3u8
+bloom https://www.bloomberg.com/media-manifest/streams/us.m3u8
+hope https://videodelivery.net/8dfdf197ede241dd3c8b745a08e039e5/manifest/video.m3u8
+Lfnhd https://livestreamapis.com/v3/accounts/30337930/events/10553677/master.m3u8?token=07a27570d306cb9b8a1652868f855ebd&clientId=18989&timestamp=1667656034315
+impcnet https://edge1.lifestreamcdn.com/live/impactroku1/playlist.m3u8
