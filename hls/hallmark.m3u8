@@ -1,0 +1,10 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-STREAM-INF:BANDWIDTH=748995,CODECS="avc1.4d4015,mp4a.40.2",RESOLUTION=512x288
+https://frndlymsl1.akamaized.net/hls/live/2006424/hallmarkmsl/hallmarkmsl/hallmark_600/chunklist.m3u8?hdntl=exp=1668769943~acl=*~data=hdntl~hmac=7e6e8e8024d13ecb155f6af80ca4f5b0a902e9cfda7c93ece8725c7e9e56bbb8
+#EXT-X-STREAM-INF:BANDWIDTH=961598,CODECS="avc1.4d401e,mp4a.40.2",RESOLUTION=640x360
+https://frndlymsl1.akamaized.net/hls/live/2006424/hallmarkmsl/hallmarkmsl/hallmark_800/chunklist.m3u8?hdntl=exp=1668769943~acl=*~data=hdntl~hmac=7e6e8e8024d13ecb155f6af80ca4f5b0a902e9cfda7c93ece8725c7e9e56bbb8
+#EXT-X-STREAM-INF:BANDWIDTH=2132795,CODECS="avc1.4d401f,mp4a.40.2",RESOLUTION=960x540
+https://frndlymsl1.akamaized.net/hls/live/2006424/hallmarkmsl/hallmarkmsl/hallmark_2000/chunklist.m3u8?hdntl=exp=1668769943~acl=*~data=hdntl~hmac=7e6e8e8024d13ecb155f6af80ca4f5b0a902e9cfda7c93ece8725c7e9e56bbb8
+#EXT-X-STREAM-INF:BANDWIDTH=3154493,CODECS="avc1.64001f,mp4a.40.2",RESOLUTION=1280x720
+https://frndlymsl1.akamaized.net/hls/live/2006424/hallmarkmsl/hallmarkmsl/hallmark_3000/chunklist.m3u8?hdntl=exp=1668769943~acl=*~data=hdntl~hmac=7e6e8e8024d13ecb155f6af80ca4f5b0a902e9cfda7c93ece8725c7e9e56bbb8
